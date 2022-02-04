@@ -1,0 +1,9 @@
+<application>
+  <component name="GeneralSettings">
+    <option name="defaultProjectDirectory" value="D:\uchiyama_file\prgram\uchiyama_program" />
+    <option name="showTipsOnStartup" value="false" />
+  </component>
+  <component name="Registry">
+    <entry key="external.system.auto.import.disabled" value="true" />
+  </component>
+</application>
