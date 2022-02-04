@@ -22,7 +22,7 @@
     </option>
     <option name="CUSTOM_BOOLEAN_PROPERTIES">
       <map>
-        <entry key="Change.Log.Filter.on.Branch.Selection" value="true" />
+        <entry key="Change.Log.Filter.on.Branch.Selection" value="false" />
       </map>
     </option>
   </component>
