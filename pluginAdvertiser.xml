@@ -34,7 +34,7 @@
                   </entry>
                   <entry key="Application">
                     <value>
-                      <FeaturePluginData displayName="アプリケーション" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="ComposePreviewRunConfiguration">
@@ -44,7 +44,7 @@
                   </entry>
                   <entry key="CompoundRunConfigurationType">
                     <value>
-                      <FeaturePluginData displayName="複合" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
+                      <FeaturePluginData displayName="Compound" pluginName="IDEA CORE" pluginId="com.intellij" bundled="true" />
                     </value>
                   </entry>
                   <entry key="DartCommandLineRunConfigurationType">
@@ -109,7 +109,7 @@
                   </entry>
                   <entry key="JarApplication">
                     <value>
-                      <FeaturePluginData displayName="JAR アプリケーション" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
+                      <FeaturePluginData displayName="JAR Application" pluginName="Java" pluginId="com.intellij.java" bundled="true" />
                     </value>
                   </entry>
                   <entry key="Java Scratch">
